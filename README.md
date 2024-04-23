@@ -1,6 +1,8 @@
 # python-faker
 python faker
 
+Python 3.11.9
+
 ## install 
 ````
 pip install Faker
